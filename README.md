@@ -1,3 +1,5 @@
 # MRSISA2020_T38
 
- -Luka Nikolić
+Projekat iz predmeta MRS/ISA
+
+ Luka Nikolić
