@@ -3,3 +3,10 @@
 Projekat iz predmeta MRS/ISA
 
  Luka Nikolić
+
+
+Technology stack
+-Vue.js
+-Node.js
+-Express.js
+-MySQL
